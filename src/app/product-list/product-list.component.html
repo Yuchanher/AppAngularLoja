@@ -1,13 +1,13 @@
 <h2>Produto</h2>
 
 <div *ngFor="let product of products">
-
   <h3>
     <a [title]="product.name + ' details'">
       {{ product.name }}
     </a>
   </h3>
 
+  <button type="button" (click)="share()">Share</button>
 </div>
 
 <!-- 

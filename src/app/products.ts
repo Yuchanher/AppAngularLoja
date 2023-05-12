@@ -10,13 +10,13 @@ export const products = [
     id: 1,
     name: 'Motorola',
     price: 799,
-    description: 'A large phone with one of the best screens',
+    description: 'Chacoalha que acende',
   },
   {
     id: 2,
     name: 'Iphone',
     price: 699,
-    description: 'A great phone with one of the best cameras',
+    description: 'Piscou, acabou a bateria',
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ export const products = [
     id: 4,
     name: 'Sansung Galax',
     price: 99,
-    description: '',
+    description: 'caiu, quebrou, mais continua funcionando',
   },
 ];
 
